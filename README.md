@@ -22,3 +22,4 @@
 * [The Lean Startup](https://www.amazon.com.br/Lean-Startup-Entrepreneurs-Continuous-Innovation/dp/0307887898)
 * [Management 3.0 leading agile developers developing agile leaders](https://www.amazon.com/Management-3-0-Developers-Developing-Addison-Wesley/dp/0321712471)
 * [High Output Management](https://www.amazon.com.br/High-Output-Management-Andrew-Grove/dp/0679762884)
+* [Zero Trust Networks: Building Secure Systems in Untrusted Networks](https://www.amazon.com/Zero-Trust-Networks-Building-Untrusted/dp/1491962194)
